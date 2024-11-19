@@ -1,0 +1,15 @@
+/* tavyza gelšai css */
+
+@font-face {
+    font-family: "Yrigakesha";
+    src: url("/assets/fonts/Yrigakesha.otf") format("opentype");
+}
+
+* {
+    font-family: "Yrigakesha";
+}
+
+.content {
+    background-color: #282828;
+    
+}
